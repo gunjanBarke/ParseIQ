@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+pdfplumber
+docx2txt
+gspread
+oauth2client
+reportlab
+matplotlib
+pandas
